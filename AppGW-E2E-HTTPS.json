@@ -272,7 +272,7 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://supportability.visualstudio.com/AzureNetworking/_git/ANPLabBox?path=/Attachments/Layer7/ApplicationGateway/AppGW-E2E-HTTPS_Script.ps1"
+            "https://github.com/riturajc/anplabs/blob/main/AppGW-E2E-HTTPS_Script.ps1"
           ],
           "commandToExecute": "powershell.exe -ExecutionPolicy Unrestricted -File AppGW-E2E-HTTPS_Script.ps1"
         }
@@ -501,7 +501,7 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://supportability.visualstudio.com/AzureNetworking/_git/ANPLabBox?path=/Attachments/Layer7/ApplicationGateway/AppGW-E2E-HTTPS_Script.ps1"
+            "https://github.com/riturajc/anplabs/blob/main/AppGW-E2E-HTTPS_Script.ps1"
           ],
           "commandToExecute": "powershell.exe -ExecutionPolicy Unrestricted -File AppGW-E2E-HTTPS_Script.ps1"
         }
